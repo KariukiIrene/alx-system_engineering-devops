@@ -1,3 +1,3 @@
 #!/bin/bash
-1pr  “Hello, World”
+ wc -l “Hello, World” print 2 
 
