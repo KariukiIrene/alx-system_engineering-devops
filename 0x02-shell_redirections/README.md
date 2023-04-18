@@ -1,2 +1,2 @@
-script that prints “Hello, World”,
+ “Hello, World”,
 Confused smiley
